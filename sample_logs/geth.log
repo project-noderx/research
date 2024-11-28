@@ -1,0 +1,21 @@
+INFO [06-03|13:50:28.283] Imported new chain segment               number=19,984,403 hash=99af49..4e9289 blocks=45 txs=7177 mgas=674.201 elapsed=8.228s mgasps=81.932 age=3d19h30m snapdiffs=6.20MiB triediffs=172.16MiB triedirty=200.59MiB
+INFO [06-03|13:50:36.363] Imported new chain segment               number=19,984,452 hash=f53c95..1a7d76 blocks=49 txs=8011 mgas=736.620 elapsed=8.080s mgasps=91.163 age=3d19h20m snapdiffs=8.01MiB triediffs=172.04MiB triedirty=208.75MiB
+WARN [06-03|13:50:37.536] Ignoring payload with missing parent     number=20,011,702 hash=007928..e5ad28 parent=d69996..f81378 reason="beacon syncer reorging"
+INFO [06-03|13:50:37.536] Successful NewPayload                    number=20,011,702 hash=007928..e5ad28 status=SYNCING
+INFO [06-03|13:50:37.536] Forkchoice requested sync to new head    number=20,011,702 hash=007928..e5ad28 finalized=unknown
+WARN [06-03|13:50:37.536] Served engine_forkchoiceUpdatedV3        reqid=106 duration="189.275µs" err="beacon syncer reorging"
+ERROR[06-03|13:50:37.536] Failed ForkchoiceUpdated                 head=007928..e5ad28 error="beacon syncer reorging"
+INFO [06-03|13:50:44.368] Imported new chain segment               number=19,984,498 hash=9a7c92..3f24c0 blocks=46 txs=8136 mgas=731.290 elapsed=8.005s mgasps=91.352 age=3d19h11m snapdiffs=5.63MiB triediffs=170.99MiB triedirty=216.50MiB
+WARN [06-03|13:50:49.638] Ignoring payload with missing parent     number=20,011,703 hash=7a2550..c7d8d9 parent=007928..e5ad28 reason="beacon syncer reorging"
+INFO [06-03|13:50:49.638] Successful NewPayload                    number=20,011,703 hash=7a2550..c7d8d9 status=SYNCING
+INFO [06-03|13:50:49.638] Forkchoice requested sync to new head    number=20,011,703 hash=7a2550..c7d8d9 finalized=unknown
+WARN [06-03|13:50:49.638] Served engine_forkchoiceUpdatedV3        reqid=108 duration="231.53µs"  err="beacon syncer reorging"
+ERROR[06-03|13:50:49.638] Failed ForkchoiceUpdated                 head=7a2550..c7d8d9 error="beacon syncer reorging"
+INFO [06-03|13:50:52.452] Imported new chain segment               number=19,984,547 hash=865688..8e3a6c blocks=49 txs=7962 mgas=687.650 elapsed=8.084s mgasps=85.063 age=3d19h1m  snapdiffs=7.50MiB triediffs=174.39MiB triedirty=224.36MiB
+INFO [06-03|13:51:00.553] Imported new chain segment               number=19,984,593 hash=266036..e84dc9 blocks=46 txs=7261 mgas=668.814 elapsed=8.100s mgasps=82.561 age=3d18h52m snapdiffs=5.31MiB triediffs=175.81MiB triedirty=232.08MiB
+WARN [06-03|13:51:01.934] Ignoring payload with missing parent     number=20,011,704 hash=6dc10d..907dc9 parent=7a2550..c7d8d9 reason="beacon syncer reorging"
+INFO [06-03|13:51:01.934] Successful NewPayload                    number=20,011,704 hash=6dc10d..907dc9 status=SYNCING
+INFO [06-03|13:51:01.935] Forkchoice requested sync to new head    number=20,011,704 hash=6dc10d..907dc9 finalized=unknown
+WARN [06-03|13:51:01.935] Served engine_forkchoiceUpdatedV3        reqid=110 duration="185.387µs" err="beacon syncer reorging"
+ERROR[06-03|13:51:01.935] Failed ForkchoiceUpdated                 head=6dc10d..907dc9 error="beacon syncer reorging"
+INFO [06-03|13:51:08.636] Imported new chain segment               number=19,984,637 hash=4166a4..996d9d blocks=44 txs=7696 mgas=649.101 elapsed=8.082s mgasps=80.305 age=3d18h43m snapdiffs=7.19MiB triediffs=187.84MiB triedirty=239.17MiB
