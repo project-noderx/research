@@ -1,0 +1,9 @@
+# Credentials for github
+.creds
+
+# vim files
+*~
+*.sw?
+
+# temporary files
+test_log_collection/*.json
